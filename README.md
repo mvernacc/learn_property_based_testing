@@ -2,7 +2,7 @@
 
 ## Python
 
-[Hypothesis](https://hypothesis.readthedocs.io/en/latest/index.html) is a well-used library for python that is recommended in **The Pragmatic Programmer** (2nd edition).
+[Hypothesis](https://hypothesis.readthedocs.io/en/latest/index.html) is a well-used library for python that is recommended in *The Pragmatic Programmer* (2nd edition).
 
 ## Rust
 
